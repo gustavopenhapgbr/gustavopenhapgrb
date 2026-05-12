@@ -1,6 +1,6 @@
 <!--<!-- README.md -->
 
-<h1 align="center">👋 Olá, eu sou José!</h1>
+<h1 align="center">👋 Olá, eu sou Gustavo!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Web-HTML%20%7C%20CSS%20%7C%20JS-blue" alt="Tech Badge">
@@ -67,6 +67,12 @@ Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tec
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" />
       </a><br/>
       <code>MySQL</code>
+    </td>
+        <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener">
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28.png)" alt="MySQL" width="64" />
+      </a><br/>
+      <code>Java</code>
     </td>
   </tr>
 </table>
