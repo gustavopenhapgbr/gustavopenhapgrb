@@ -69,8 +69,8 @@ Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tec
       <code>MySQL</code>
     </td>
         <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28.png)" alt="MySQL" width="64" />
+      <a href="https://www.java.com/pt-br/" target="_blank" rel="noopener">
+        <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width="64" />
       </a><br/>
       <code>Java</code>
     </td>
@@ -79,9 +79,3 @@ Atualmente focado em aprender mais e conseguir meu primeiro emprego na área tec
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=oclaudiodev&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oclaudiodev&layout=compact&theme=radical) |
-|---|---|
-
----
